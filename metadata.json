@@ -1,0 +1,6 @@
+{
+  "name": "جمعية نبتكرة",
+  "description": "جمعية نبتكرة لتربية الأطفال على الاختراعات والمساعد الذكي لتقديم جميع المعلومات عن الجمعية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
